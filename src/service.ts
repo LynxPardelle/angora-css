@@ -37,6 +37,5 @@ export class AngoraService {
       manage_sheet,
       utility_configurations
     );
-    manage_sheet.checkSheet();
   }
 }
