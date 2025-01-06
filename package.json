@@ -26,7 +26,7 @@
     "nodemon": "^3.0.3",
     "terser-webpack-plugin": "^5.3.11",
     "ts-loader": "^9.5.1",
-    "typescript": "^5.3.3",
+    "typescript": "^5.7.2",
     "webpack": "^5.90.1",
     "webpack-cli": "^5.1.4",
     "wrapper-webpack-plugin": "^2.2.2"
