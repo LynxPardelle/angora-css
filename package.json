@@ -23,7 +23,7 @@
     "url": "https://github.com/LynxPardelle/angora-css"
   },
   "devDependencies": {
-    "nodemon": "^3.0.3",
+    "nodemon": "^3.1.9",
     "terser-webpack-plugin": "^5.3.11",
     "ts-loader": "^9.5.1",
     "typescript": "^5.7.2",
