@@ -1,6 +1,6 @@
 {
   "name": "angora-css",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "Angora CSS is a library that provides a set of CSS classes to help you build modern web applications. It is based on the [Boostrap Expanded Features Library](https://github.com/LynxPardelle/bootstrap-expanded-features) and the [Bootstrap](https://getbootstrap.com/) framework. It is designed to be easy to use and customize. It is also designed to be responsive and mobile-first.",
   "main": "./src/angora.ts",
   "scripts": {
@@ -24,9 +24,9 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10",
-    "terser-webpack-plugin": "^5.3.12",
+    "terser-webpack-plugin": "^5.3.14",
     "ts-loader": "^9.5.2",
-    "typescript": "^5.8.2",
+    "typescript": "^5.8.3",
     "webpack": "^5.98.0",
     "webpack-cli": "^6.0.1",
     "wrapper-webpack-plugin": "^2.2.2"
