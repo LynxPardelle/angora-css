@@ -170,15 +170,12 @@ Returns all already created classes.
 const createdClasses = angoraService.getAlreadyCreatedClasses();
 ```
 
-### `updateClasses(classes: Object)`
+### `updateClasses(classesToUpdate: string[])`
 
-Updates the classes configuration.
+Updates the classes.
 
 ```typescript
-angoraService.updateClasses({
-  'margin': 'm',
-  'padding': 'p'
-});
+angoraService.updateClasses(['ank-m-5rem']);
 ```
 
 ---
